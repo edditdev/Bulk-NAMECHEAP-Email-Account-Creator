@@ -34,8 +34,5 @@ Navigate to the **Email Accounts** section of your hosting (cPanel or similar).
 
 Paste the full contents of the script into the console and press `Enter`.
 
-```js
-// paste the createEmailAccounts() function here
-```
 
 ![Email Account Creation Form](https://i.imgur.com/ErAUSp0.png)
