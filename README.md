@@ -5,7 +5,7 @@ This script automates the creation of multiple email accounts on a web hosting c
 ## What It Does
 
 - Programmatically fills in and submits the *"Create Email Account"* form.
-- Generates sequential email usernames (e.g., `bomber1`, `bomber2`, ..., `bomber200`).
+- Generates sequential email usernames (e.g., `emailadress1`, `emailadress2`, ..., `emailadress200`).
 - Uses a fixed password for all accounts (customizable).
 - Waits for form loading, handles AJAX responses, and confirms success.
 - Automatically skips or aborts on server errors, max account limits, or invalid usernames.
